@@ -7,3 +7,6 @@ Datasheet del panel: https://nrtboftwuylmuxmxkdcw.supabase.co/storage/v1/object/
 
 Inversor: https://solarworldcr.com/product/inversor-hybrid-6500w-48v-120-vac-pieza
 Datasheet del inversor: https://nrtboftwuylmuxmxkdcw.supabase.co/storage/v1/object/public/product-manuals/4deb7efb-21d7-4a55-a4bc-fc2a549cfd1d-Phocos_6500.pdf
+
+
+La idea es montar 2 strings de 4 paneles. Un string va a MPPT 1 y el otro string a MPPT 2
